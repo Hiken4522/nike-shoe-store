@@ -7,5 +7,12 @@ Home page
 
 ![image](https://github.com/Hiken4522/nike-shoe-store/assets/113972660/54ec8864-a658-4a7d-8dcf-e06b72d16dab)
 
+Product page
+![image](https://github.com/Hiken4522/nike-shoe-store/assets/113972660/3838f507-4c90-4484-8018-926fcd589da0)
+
+![image](https://github.com/Hiken4522/nike-shoe-store/assets/113972660/f9da4b10-ef5c-4558-8988-fb07d65e3af4)
+
+
+
 
 
